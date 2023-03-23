@@ -21,3 +21,6 @@ For ICP-5 the python codes are added with discription are added in file and
 
 For assignment-6 the python codes are added with discription are added in file and 
     this is the video link explaining code https://drive.google.com/file/d/1YdmQ_YwNDUS1oAvQ83W_3c9IYBcc2JO_/view?usp=sharing
+
+For assignment-7 the python codes are added with discription are added in file and 
+    this is the video link explaining code https://drive.google.com/file/d/1FOFXfNqGSOM1SYLRg7MaMpvS5s-wRyx1/view?usp=sharing
