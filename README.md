@@ -24,3 +24,7 @@ For assignment-6 the python codes are added with discription are added in file a
 
 For assignment-7 the python codes are added with discription are added in file and 
     this is the video link explaining code https://drive.google.com/file/d/1FOFXfNqGSOM1SYLRg7MaMpvS5s-wRyx1/view?usp=sharing
+
+For assignment-8 the python codes are added in file and 
+    this is the video link explaining code https://drive.google.com/file/d/1JfGMQerlRg7_wlF2Lkx78IMxU0iVlwdD/view?usp=sharing
+    in assignment 8 adding layers worked for LeNet model but there no much accuracy improvement in other models
