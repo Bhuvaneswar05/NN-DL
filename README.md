@@ -31,3 +31,6 @@ For assignment-8 the python codes are added in file and
 
 For assignment-9 the python codes are added with discription are added in file and 
     this is the video link explaining code https://drive.google.com/file/d/1SWMpQPcLEHGHxOB1ruPeZjKrdJTS-3gn/view?usp=sharing
+
+For assignment-10 the python codes are added with discription are added in file and 
+    this is the video link explaining code https://drive.google.com/file/d/1SWMpQPcLEHGHxOB1ruPeZjKrdJTS-3gn/view?usp=sharing
