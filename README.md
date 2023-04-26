@@ -34,3 +34,7 @@ For assignment-9 the python codes are added with discription are added in file a
 
 For assignment-10 the python codes are added with discription are added in file and 
     this is the video link explaining code https://drive.google.com/file/d/19FJ-8ZzN5d-dfBzUcBEyiiQbORIdLeFt/view?usp=sharing
+
+
+
+For the final project the code is on https://github.com/Bhuvaneswar05/NN-DL/FinalProject and also i have added all the codes and reports in FinalProjectReports folder.
